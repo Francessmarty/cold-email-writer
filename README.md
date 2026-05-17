@@ -2,7 +2,7 @@
 
 A browser-based tool that researches GTM signals for a list of leads and automatically generates personalised cold emails, no manual steps between upload and download.
 
-![Cold Email Writer screenshot](screenshot/Screenshot%202026-05-16%20125324.png)
+![Cold Email Writer screenshot](screenshot/generated_full_email.png)
 
 ---
 
