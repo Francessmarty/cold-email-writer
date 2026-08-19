@@ -137,7 +137,8 @@ cold-email-writer/
 
 Only signals from the last 14 days qualify a lead. No signal = Not Qualified, no email generated.
 
-——-
+
+
 
 ## Author
 
