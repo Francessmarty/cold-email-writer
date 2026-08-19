@@ -1,3 +1,5 @@
+
+
 # Cold Email Writer
 
 A browser-based tool that researches GTM signals for a list of leads and automatically generates personalised cold emails, no manual steps between upload and download.
@@ -134,3 +136,10 @@ cold-email-writer/
 | GTM motion | Go-to-market, revenue motion, outbound strategy, pipeline |
 
 Only signals from the last 14 days qualify a lead. No signal = Not Qualified, no email generated.
+
+——-
+
+## Author
+
+Frances Ehinor
+https://francesbuilds.com
